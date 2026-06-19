@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<!--
-**theuash/theuash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ... VIRTUAL
 - 🌱 I’m currently learning ... Redis and Javascript
 - 👯 I’m looking to collaborate on ...
@@ -16,6 +14,6 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theuash&theme=dark)](https://git.io/streak-stats)
 
-[![Ujwal's GitHub stats]([https://github-readme-stats.vercel.app/api?username=theuash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats](https://github.com/theuash/my_github_stats.git))
+[![Ujwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
